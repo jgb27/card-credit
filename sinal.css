@@ -1,0 +1,12 @@
+.wave {
+	border: 2px solid transparent;
+	border-right-color: #fff;
+	border-radius: 50%;
+	border-style: solid;
+	margin: 5px;
+}
+
+.wv1{
+  border: none;
+}
+
